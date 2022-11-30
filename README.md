@@ -1,8 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangho527&count_bg=%233881EF&title_bg=%23555555&icon=&icon_color=%233881EF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 👋 Hi, I’m @sangho527
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... java
+- 👀 I’m interested in ... fashion domain
+- 🌱 I’m currently learning ... java, spring🌱
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
